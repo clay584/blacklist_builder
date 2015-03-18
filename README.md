@@ -1,8 +1,8 @@
 # Blacklist Builder
-Fetches multiple blacklists, formats, outputs to text file for use with Palo Alto firewalls (possibly others).
+Fetches multiple blacklists, formats, removes duplicates, and outputs to text file for use with Palo Alto firewalls (possibly others).
 
 #Installation
-In order to run this script you will need argparse, urllib2, and netaddr.  It was built and tested on python2.6.
+In order to run this script you will need argparse, urllib2, and netaddr.  It was tested on python2.6.
 
 #Usage
 ##Syntax
