@@ -1,0 +1,14 @@
+#test url
+#http://localhost:8000/blacklist.txt
+#Open BL list
+http://www.openbl.org/lists/base.txt
+#Spamhaus DROP list
+http://www.spamhaus.org/drop/drop.txt
+#Spamhaus extended DROP list (EDROP)
+http://www.spamhaus.org/drop/edrop.txt
+#Malware Domain List - Active IP Addresses
+http://www.malwaredomainlist.com/hostslist/ip.txt
+#Emerging threats firewall rules - Block IPs
+http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+#Team Cymru Bogon List
+https://www.team-cymru.org/Services/Bogons/bogon-bn-nonagg.txt
